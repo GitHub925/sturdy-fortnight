@@ -1,0 +1,13 @@
+.imagemooga{
+    border-radius: 20px;
+    border-style: ridge;
+    border-color: blue;
+    border-width: 10px;
+    width: 200px;
+    height: 150px;
+}
+
+.moogla{
+    float: none;
+    margin: 20px;
+}
